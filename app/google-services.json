@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206287989840",
+    "firebase_url": "https://fir-pojoclasspractice.firebaseio.com",
+    "project_id": "fir-pojoclasspractice",
+    "storage_bucket": "fir-pojoclasspractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206287989840:android:f4d94264b719d71f",
+        "android_client_info": {
+          "package_name": "com.movieapps.firebasepojoclasspractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206287989840-s2nig0bs5d6s98k25mip9rmv1e4piiut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movieapps.firebasepojoclasspractice",
+            "certificate_hash": "D3C3A854693F41E7C0587FB3571EA58D54B487F8"
+          }
+        },
+        {
+          "client_id": "206287989840-a9dr2oq8i46kevdl292n6dp3n1lj6dio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDngTyEqgOoQh-UvwU8ylAOhzFao71N4k0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206287989840-a9dr2oq8i46kevdl292n6dp3n1lj6dio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
